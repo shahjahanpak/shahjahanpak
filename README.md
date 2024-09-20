@@ -76,14 +76,14 @@ I'm a passionate Mobile App Developer with 4+ years of experience specializing i
 **Organization:** Snap! Mobile  
 **About:** Revolutionizing school communication by providing parents with real-time updates.  
 **Role:** Reskin/Rewrite version individually.
-**Features:** Functional Components, Redux Toolkit/Sagas, Real-time chats (Websockets), Notifications (Pushwoosh), Firebase Analytics, Sentry, Formik/Yup.  
+**Features:** Functional Components, Redux Toolkit/Sagas, Real-time chats (Websockets), Notifications (Pushwoosh), Firebase Analytics, Sentry, Formik/Yup.
 **Links:** [iOS App](https://apps.apple.com/us/app/snap-connect/id653499207), [Android App](https://play.google.com/store/apps/details?id=com.schoolcnxt&hl=en_US)  
 
 ### [DiversePro](https://apps.apple.com/us/app/diversepro/id1603656508)
 **Organization:** Coding Pixel  
 **About:** A community-based legal directory connecting people with diverse lawyers.  
 **Role:** Individual contributor.
-**Features:** Functional Components, Redux Toolkit, Real-time chats (Firestore), Notifications (FCM), Payments (Apple/Google in-app), Formik/Yup.  
+**Features:** Functional Components, Redux Toolkit, Real-time chats (Firestore), Notifications (FCM), Payments (Apple/Google in-app), Formik/Yup.
 **Links:** [iOS App](https://apps.apple.com/us/app/diversepro/id1603656508), [Android App](https://play.google.com/store/apps/details?id=com.diversepro.cp&hl=en&gl=US)  
 
 ### [Swapz Official](https://apps.apple.com/sr/app/swapz-official/id1594290262)
@@ -97,14 +97,14 @@ I'm a passionate Mobile App Developer with 4+ years of experience specializing i
 **Organization:** Next X  
 **About:** All-in-one fasting tool with community interaction.  
 **Role:** Individual contributor.
-**Technologies/Features:** React Native, TypeScript, Redux Toolkit, Bar Graphs, Google Mobile Ads, Firebase, Google/Apple Sign-in.  
+**Technologies/Features:** React Native, TypeScript, Redux Toolkit, Bar Graphs, Google Mobile Ads, Firebase, Google/Apple Sign-in.
 **Links:** [iOS App](https://apps.apple.com/us/app/we-fast-fasting-tracking-app/id6470639571), [Android App](https://play.google.com/store/apps/details?id=com.app.fasting&hl=en&gl=US)  
 
 ### [Mommy’s Miracle - Pregnancy App](https://apps.apple.com/us/app/mommys-miracle/id6475649558)
 **Organization:** Next X  
 **About:** A pregnancy tracking app with tools for maternity, baby milestones, and postpartum care.  
 **Role:** Individual contributor.
-**Technologies/Features:** React Native, TypeScript, Redux Toolkit, Bar Graphs, Google Mobile Ads, Firestore, FCM, Firebase Functions, Analytics, Clarity, Google/Apple Sign-in.  
+**Technologies/Features:** React Native, TypeScript, Redux Toolkit, Bar Graphs, Google Mobile Ads, Firestore, FCM, Firebase Functions, Analytics, Clarity, Google/Apple Sign-in.
 **Links:** [iOS App](https://apps.apple.com/us/app/mommys-miracle/id6475649558), [Android App](https://play.google.com/store/apps/details?id=com.mommysmiracle)  
 
 ### [Cold FAid: First Aid for Colds](https://apps.apple.com/us/app/cold-faid-first-aid-for-colds/id1530656296)
@@ -118,7 +118,7 @@ I'm a passionate Mobile App Developer with 4+ years of experience specializing i
 **Organization:** iParagons  
 **About:** App to help teachers find mutual transfer options.  
 **Role:** Individual contributor.
-**Features:** Context API, Firebase Phone Auth/Firestore/Analytics, Google Maps SDK/Geocoding.  
+**Features:** Context API, Firebase Phone Auth/Firestore/Analytics, Google Maps SDK/Geocoding.
 **Links:** [Android App](https://play.google.com/store/apps/details?id=com.mutualtransferapp&hl=en&gl=US)  
 
 ### [FitBUX](https://apps.apple.com/us/app/fitbux/id1604251731)
