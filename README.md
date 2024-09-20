@@ -76,56 +76,56 @@ I'm a passionate Mobile App Developer with 4+ years of experience specializing i
 **Organization:** Snap! Mobile  
 **About:** Revolutionizing school communication by providing parents with real-time updates.  
 **Role:** Reskin/Rewrite version individually.
-**Features:** Functional Components, Redux Toolkit/Sagas, Real-time chats (Websockets), Notifications (Pushwoosh), Firebase Analytics, Sentry, Formik/Yup.
+**Features:** Functional Components, Redux Toolkit/Sagas, Real-time chats (Websockets), Notifications (Pushwoosh), Firebase Analytics, Sentry, Formik/Yup.                
 **Links:** [iOS App](https://apps.apple.com/us/app/snap-connect/id653499207), [Android App](https://play.google.com/store/apps/details?id=com.schoolcnxt&hl=en_US)  
 
 ### [DiversePro](https://apps.apple.com/us/app/diversepro/id1603656508)
 **Organization:** Coding Pixel  
 **About:** A community-based legal directory connecting people with diverse lawyers.  
 **Role:** Individual contributor.
-**Features:** Functional Components, Redux Toolkit, Real-time chats (Firestore), Notifications (FCM), Payments (Apple/Google in-app), Formik/Yup.
+**Features:** Functional Components, Redux Toolkit, Real-time chats (Firestore), Notifications (FCM), Payments (Apple/Google in-app), Formik/Yup.                
 **Links:** [iOS App](https://apps.apple.com/us/app/diversepro/id1603656508), [Android App](https://play.google.com/store/apps/details?id=com.diversepro.cp&hl=en&gl=US)  
 
 ### [Swapz Official](https://apps.apple.com/sr/app/swapz-official/id1594290262)
 **Organization:** Coding Pixel  
 **About:** E-commerce app enabling item swapping across the US.  
 **Role:** UI fixes, API integration, third-party library integration, chats, notifications, app publishing.  
-**Features:** Functional Components, Redux Toolkit, Real-time chat (Socket.io), Notifications (OneSignal), Payments (PayPal/Braintree, Stripe), Enhanced filtering, Order tracking with USPS.
+**Features:** Functional Components, Redux Toolkit, Real-time chat (Socket.io), Notifications (OneSignal), Payments (PayPal/Braintree, Stripe), Enhanced filtering, Order tracking with USPS.     
 **Links:** [iOS App](https://apps.apple.com/sr/app/swapz-official/id1594290262), [Android App](https://play.google.com/store/apps/details?id=com.swapz&hl=en&gl=US)  
 
 ### [We Fast - Fasting App for Life](https://apps.apple.com/us/app/we-fast-fasting-tracking-app/id6470639571)
 **Organization:** Next X  
 **About:** All-in-one fasting tool with community interaction.  
 **Role:** Individual contributor.
-**Technologies/Features:** React Native, TypeScript, Redux Toolkit, Bar Graphs, Google Mobile Ads, Firebase, Google/Apple Sign-in.
+**Technologies/Features:** React Native, TypeScript, Redux Toolkit, Bar Graphs, Google Mobile Ads, Firebase, Google/Apple Sign-in.                
 **Links:** [iOS App](https://apps.apple.com/us/app/we-fast-fasting-tracking-app/id6470639571), [Android App](https://play.google.com/store/apps/details?id=com.app.fasting&hl=en&gl=US)  
 
 ### [Mommy’s Miracle - Pregnancy App](https://apps.apple.com/us/app/mommys-miracle/id6475649558)
 **Organization:** Next X  
 **About:** A pregnancy tracking app with tools for maternity, baby milestones, and postpartum care.  
 **Role:** Individual contributor.
-**Technologies/Features:** React Native, TypeScript, Redux Toolkit, Bar Graphs, Google Mobile Ads, Firestore, FCM, Firebase Functions, Analytics, Clarity, Google/Apple Sign-in.
+**Technologies/Features:** React Native, TypeScript, Redux Toolkit, Bar Graphs, Google Mobile Ads, Firestore, FCM, Firebase Functions, Analytics, Clarity, Google/Apple Sign-in.                
 **Links:** [iOS App](https://apps.apple.com/us/app/mommys-miracle/id6475649558), [Android App](https://play.google.com/store/apps/details?id=com.mommysmiracle)  
 
 ### [Cold FAid: First Aid for Colds](https://apps.apple.com/us/app/cold-faid-first-aid-for-colds/id1530656296)
 **Organization:** Coding Pixel  
 **About:** Timely administration of ColdFaid medical kit medications.  
 **Role:** Individual, excluding Android scheduled notifications integration.  
-**Features:** Locally scheduled push notifications, Functional Components.
+**Features:** Locally scheduled push notifications, Functional Components.                
 **Links:** [iOS App](https://apps.apple.com/us/app/cold-faid-first-aid-for-colds/id1530656296), [Android App](https://play.google.com/store/apps/details?id=com.coldfaid.cp)  
 
 ### [Mutual Transfer - Punjab Teacher](https://play.google.com/store/apps/details?id=com.mutualtransferapp&hl=en&gl=US)
 **Organization:** iParagons  
 **About:** App to help teachers find mutual transfer options.  
 **Role:** Individual contributor.
-**Features:** Context API, Firebase Phone Auth/Firestore/Analytics, Google Maps SDK/Geocoding.
+**Features:** Context API, Firebase Phone Auth/Firestore/Analytics, Google Maps SDK/Geocoding.                
 **Links:** [Android App](https://play.google.com/store/apps/details?id=com.mutualtransferapp&hl=en&gl=US)  
 
 ### [FitBUX](https://apps.apple.com/us/app/fitbux/id1604251731)
 **Organization:** Coding Pixel  
 **About:** Financial planning app for FitBUX members.  
 **Role:** UI development, API integration, chart work, call scheduling through Calendly, basic Plaid integration.  
-**Features:** Functional Components, Redux AsyncThunk, TypeScript, Bar/Chart/Progress Graphs, API Integration, Plaid/Calendly integration.
+**Features:** Functional Components, Redux AsyncThunk, TypeScript, Bar/Chart/Progress Graphs, API Integration, Plaid/Calendly integration.                
 **Links:** [iOS App](https://apps.apple.com/us/app/fitbux/id1604251731), [Android App](https://play.google.com/store/apps/details?id=com.fitbux)  
 
 ---
