@@ -8,7 +8,7 @@ I'm a passionate Mobile App Developer with 4+ years of experience specializing i
 🌍 **Location:** Gujrat, Pakistan  
 📧 **Email:** [shahjahan.chaudhry@gmail.com](mailto:shahjahan.chaudhry@gmail.com)  
 💼 **LinkedIn:** [Shahjahan on LinkedIn](https://linkedin.com/in/shahjahan-5320303a)  
-🔗 **GitHub:** [shahjahanpak](https://github.com/shahjahanpak)  
+🔗 **GitHub:** [shahjahanpak](https://github.com/shahjahanpak), [shahjahansnapraise](https://github.com/shahjahansnapraise), [shahjahancodingpixel](https://gitlab.com/shahjahancodingpixel)  
 💡 **StackOverflow:** [Shahjahan on StackOverflow](https://stackoverflow.com/users/11089521/shahjahan)
 
 ---
