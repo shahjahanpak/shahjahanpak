@@ -27,7 +27,7 @@ I'm a passionate Mobile App Developer with 4+ years of experience specializing i
 
 ## 💼 **Work Experience:**
 
-### Freelancer Software Engineer (May 2024 - Present)
+### Freelance Software Engineer (May 2024 - Present)
 - Leading the development of a robust POS application using React Native and Expo.
 - Utilizing **XState state machines** for workflow management.
 - Implementing **MongoDB Realm** for backend data management and improving performance.
