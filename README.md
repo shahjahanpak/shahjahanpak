@@ -67,6 +67,7 @@ I'm a passionate Mobile App Developer with 4+ years of experience specializing i
 - Academic Achievement Campus Gold Medal - COMSATS Abbottabad
 - Academic Achievement Institute Bronze Medal - COMSATS Islamabad
 - Certified Engineer - Pakistan Engineering Council
+- Member - Pakistan Software Export Board
 
 ---
 
