@@ -9,7 +9,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11089521/shahjahan)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/shahjahancodingpixel)
 
-📍 Gujrat, Pakistan
+📍 Lahore, Pakistan
 
 </div>
 
@@ -86,9 +86,10 @@ Mobile engineer with **6+ years** in React Native, shipping apps to the App Stor
 
 🥇 Campus Gold Medal — COMSATS Abbottabad<br>
 🥉 Institute Bronze Medal — COMSATS Islamabad<br>
-🎖 Shanghai Municipal Government Scholarship<br>
-📜 Certified Engineer — Pakistan Engineering Council<br>
-🤝 Member — Pakistan Software Export Board
+🎖 Shanghai Government Scholarship (Type A), fully funded MSc<br>
+🎓 Merit scholarships — COMSATS Abbottabad (2008 – 2011)<br>
+📜 Registered Engineer — Pakistan Engineering Council<br>
+🤝 Registered IT professional — Pakistan Software Export Board
 
 </td>
 </tr>
