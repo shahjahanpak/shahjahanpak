@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About
 
-Mobile engineer with **6+ years** in React Native, shipping apps to the App Store and Google Play for US and Australian companies. Computer Engineer by training, with a fully funded MSc from Shanghai Jiao Tong University. I care about clean state management, real-time features and apps that feel fast.
+Mobile engineer with **6+ years** in React Native, shipping apps to the App Store and Google Play for US and Australian companies. Before software, I spent **4 years in mechanical design and manufacturing**. Computer Engineer by training, with a fully funded MSc in Mechanical Engineering from Shanghai Jiao Tong University. I care about clean state management, real-time features and apps that feel fast.
 
 ### 🛠 Tech Stack
 
@@ -38,9 +38,12 @@ Mobile engineer with **6+ years** in React Native, shipping apps to the App Stor
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<sub>**Also:** Redux Saga · RTK Query · Context API · REST · WebSockets · Firestore · OneSignal · FCM · Pushwoosh · PayPal · Apple/Google In-App Purchases · Social logins · Maps</sub>
+<sub>**Also:** Redux Saga · RTK Query · Context API · REST · WebSockets · Firestore · OneSignal · FCM · Pushwoosh · PayPal · Apple/Google In-App Purchases · Social logins · Maps</sub><br>
+<sub>**Engineering:** AutoCAD · SolidWorks · MATLAB/Simulink · Quality testing · Production planning</sub>
 
 ### 💼 Experience
+
+**Software**
 
 | Role | Company | Period |
 | :--- | :--- | :--- |
@@ -53,6 +56,18 @@ Mobile engineer with **6+ years** in React Native, shipping apps to the App Stor
 - **Intagleo:** Rebuilt legacy products in modern React and TypeScript with Redux Toolkit/Sagas, WebSockets, Firebase Analytics and Sentry.
 - **Coding Pixel:** Shipped pixel-perfect apps with real-time chat, push notifications and payments (Stripe, PayPal, in-app). Mentored junior developers.
 - **iParagons:** Built an education pilot app from scratch with Firebase and Google Maps, used by thousands of teachers.
+
+**Mechanical Engineering**
+
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| **Assistant Manager (Development)** | Mecas Engineering | Jun 2019 – Dec 2019 |
+| **Assistant Engineer** | RND Engineering | Jan 2016 – Dec 2018 |
+| **Intern** | Wahid Industries | Aug 2015 – Sep 2015 |
+
+- **Mecas:** Managed the tool-room team making fixtures, gauges, drilling heads and cutting tools, and kept projects on schedule.
+- **RND:** Designed special-purpose machines, fixtures and test rigs in AutoCAD and SolidWorks. Planned production and ran quality tests for a car water pump made for Suzuki.
+- **Wahid:** Trained in die and electrode design, and machining.
 
 ### 🎓 Education & 🏆 Awards
 
