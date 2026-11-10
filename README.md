@@ -9,7 +9,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11089521/shahjahan)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/shahjahancodingpixel)
 
-📍 Lahore, Pakistan
+📍 Gujrat, Pakistan
 
 </div>
 
