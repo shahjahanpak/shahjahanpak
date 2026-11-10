@@ -100,14 +100,14 @@ Software engineer with **6+ years** in TypeScript and JavaScript, building for U
 
 ### 🎓 Education
 
-- **MSc Mechanical Engineering** · Shanghai Jiao Tong University, China · 2012 – 2015
-- **BSc Computer Engineering** · COMSATS University, Abbottabad · 2007 – 2011
+🎓 **MSc Mechanical Engineering** · Shanghai Jiao Tong University, China · 2012 – 2015  
+🎓 **BSc Computer Engineering** · COMSATS University, Abbottabad · 2007 – 2011
 
 ### 🏆 Awards & Registrations
 
 🥇 **Campus Gold Medal** · COMSATS Abbottabad, 2011  
 🥉 **Institute Bronze Medal** · COMSATS Islamabad, 2012  
-🎓 **Merit scholarship and certificate** · COMSATS Abbottabad, 2008 – 2011  
+🏅 **Merit scholarship and certificate** · COMSATS Abbottabad, 2008 – 2011  
 🎖 **Shanghai Government Scholarship (Type A)** · Fully funded MSc, 2012 – 2015  
 📜 **Registered Engineer** · Pakistan Engineering Council  
 🤝 **Registered IT Professional** · Pakistan Software Export Board
