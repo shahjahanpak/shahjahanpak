@@ -19,32 +19,51 @@
 
 Software engineer with **6+ years** in TypeScript and JavaScript, building for US and Australian companies: mobile apps on the App Store and Google Play, web dashboards and Node.js services. Before software, I spent **4 years in mechanical design and manufacturing**. Computer Engineer by training, with a fully funded MSc in Mechanical Engineering from Shanghai Jiao Tong University. I care about clean state management, real-time features and software that feels fast.
 
-### 🛠 Tech Stack
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PowerSync](https://img.shields.io/badge/PowerSync-5E3AEE?style=flat-square&logoColor=white)
+![PowerSync](https://img.shields.io/badge/PowerSync-5E3AEE?style=flat-square)
 ![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logo=turso&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![XState](https://img.shields.io/badge/XState-2C3E50?style=flat-square&logo=xstate&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB Realm](https://img.shields.io/badge/MongoDB_Realm-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=flat-square&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
+![XState](https://img.shields.io/badge/XState-2C3E50?style=flat-square&logo=xstate&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4A4A55?style=flat-square)
+![FCM](https://img.shields.io/badge/FCM-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![OneSignal](https://img.shields.io/badge/OneSignal-E54B4D?style=flat-square)
+![Pushwoosh](https://img.shields.io/badge/Pushwoosh-2E86DE?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
+![App Store IAP](https://img.shields.io/badge/App_Store_IAP-000000?style=flat-square&logo=apple&logoColor=white)
+![Google Play Billing](https://img.shields.io/badge/Google_Play_Billing-414141?style=flat-square&logo=googleplay&logoColor=white)
+![Sign in with Apple](https://img.shields.io/badge/Sign_in_with_Apple-000000?style=flat-square&logo=apple&logoColor=white)
+![Google Sign-In](https://img.shields.io/badge/Google_Sign--In-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-**Also:** Redux Saga · RTK Query · Context API · REST · WebSockets · Firestore · OneSignal · FCM · Pushwoosh · PayPal · Apple/Google In-App Purchases · Social logins · Maps<br>
-**Engineering:** AutoCAD · SolidWorks · MATLAB/Simulink · Quality testing · Production planning
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![MATLAB / Simulink](https://img.shields.io/badge/MATLAB_%2F_Simulink-0076A8?style=flat-square)
 
 ### 💼 Experience
 
