@@ -55,6 +55,7 @@ Software engineer with **6+ years** in TypeScript and JavaScript, building for U
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![T3 Code](https://img.shields.io/badge/T3_Code-111111?style=flat-square)
 ![Depot](https://img.shields.io/badge/Depot-2D2E3A?style=flat-square)
+![Maestro](https://img.shields.io/badge/Maestro-6E40C9?style=flat-square)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
