@@ -87,7 +87,7 @@ Mobile engineer with **6+ years** in React Native, shipping apps to the App Stor
 🥇 Campus Gold Medal — COMSATS Abbottabad<br>
 🥉 Institute Bronze Medal — COMSATS Islamabad<br>
 🎖 Shanghai Government Scholarship (Type A), fully funded MSc<br>
-🎓 Merit scholarships — COMSATS Abbottabad (2008 – 2011)<br>
+🎓 Merit scholarship and merit certificate every semester — COMSATS Abbottabad (2008 – 2011)<br>
 📜 Registered Engineer — Pakistan Engineering Council<br>
 🤝 Registered IT professional — Pakistan Software Export Board
 
