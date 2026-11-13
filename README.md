@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahjahan-5320303a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahjahan.chaudhry@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11089521/shahjahan)
+[![Work GitHub](https://img.shields.io/badge/Work_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjahangc)
 
 📍 Gujrat, Pakistan
 
@@ -101,12 +102,6 @@ Software engineer with **6+ years** in TypeScript and JavaScript, building for U
 <td align="right" valign="top" width="170">Aug&nbsp;2015&nbsp;–&#8288;&nbsp;Sep&nbsp;2015</td>
 </tr>
 </table>
-
-### 🗂 Work account
-
-Most of my work is in private company repositories, so it shows on my work account rather than this one:
-
-<a href="https://github.com/shahjahangc"><img src="https://img.shields.io/badge/@shahjahangc-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub @shahjahangc"></a> Good Code Works · May 2024 – Present
 
 ### 🎓 Education
 
