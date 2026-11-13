@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahjahan-5320303a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahjahan.chaudhry@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11089521/shahjahan)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/shahjahancodingpixel)
 
 📍 Gujrat, Pakistan
 
@@ -103,12 +102,11 @@ Software engineer with **6+ years** in TypeScript and JavaScript, building for U
 </tr>
 </table>
 
-### 🗂 Work accounts
+### 🗂 Work account
 
-Most of my work is in private company repositories, so it shows on these accounts rather than this one:
+Most of my work is in private company repositories, so it shows on my work account rather than this one:
 
-<a href="https://github.com/shahjahangc"><img src="https://img.shields.io/badge/@shahjahangc-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub @shahjahangc"></a> Current freelance work for US clients · May 2024 – Present  
-<a href="https://gitlab.com/shahjahancodingpixel"><img src="https://img.shields.io/badge/@shahjahancodingpixel-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab @shahjahancodingpixel"></a> Coding Pixel · Jan 2021 – Aug 2022
+<a href="https://github.com/shahjahangc"><img src="https://img.shields.io/badge/@shahjahangc-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub @shahjahangc"></a> Good Code Works · May 2024 – Present
 
 ### 🎓 Education
 
