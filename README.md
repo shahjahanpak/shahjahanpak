@@ -74,7 +74,7 @@ Software engineer with **6+ years** in TypeScript and JavaScript, building for U
 <td align="right" valign="top" width="170">May&nbsp;2024&nbsp;–&#8288;&nbsp;Present</td>
 </tr>
 <tr>
-<td><b>Software Engineer</b> · Intagleo Systems<br>Rebuilt legacy products in modern React and TypeScript with Redux Toolkit/Sagas, WebSockets, Firebase Analytics and Sentry.</td>
+<td><b>Software Engineer</b> · Intagleo Systems (outsourced to Snap! Raise)<br>Rebuilt legacy products in modern React and TypeScript with Redux Toolkit/Sagas, WebSockets, Firebase Analytics and Sentry.</td>
 <td align="right" valign="top" width="170">Sep&nbsp;2022&nbsp;–&#8288;&nbsp;May&nbsp;2024</td>
 </tr>
 <tr>
@@ -108,7 +108,6 @@ Software engineer with **6+ years** in TypeScript and JavaScript, building for U
 Most of my work is in private company repositories, so it shows on these accounts rather than this one:
 
 <a href="https://github.com/shahjahangc"><img src="https://img.shields.io/badge/@shahjahangc-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub @shahjahangc"></a> Current freelance work for US clients · May 2024 – Present  
-<a href="https://github.com/shahjahansnapraise"><img src="https://img.shields.io/badge/@shahjahansnapraise-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub @shahjahansnapraise"></a> Snap! Raise  
 <a href="https://gitlab.com/shahjahancodingpixel"><img src="https://img.shields.io/badge/@shahjahancodingpixel-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab @shahjahancodingpixel"></a> Coding Pixel · Jan 2021 – Aug 2022
 
 ### 🎓 Education
